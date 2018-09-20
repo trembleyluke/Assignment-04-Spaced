@@ -31,7 +31,7 @@ public class Main {
         double min2 = Math.min(min1, bcDistance);
 
         System.out.println("The maximum distance is  " + max2);
-        System.out.print("The Minimum distance is " + min2);
+        System.out.print("The minimum distance is " + min2);
 
     }
 }
